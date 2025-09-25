@@ -330,5 +330,3 @@ const phrases = {
         { jp: 'はい、わかりました。', romaji: 'Hai, wakarimashita.', en: 'Yes, I understand.' },
     ],
 };
-
-export default phrases;
